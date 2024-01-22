@@ -1,2 +1,3 @@
 # Debdulal
-this is my first git repository
+This is my first git repository
+Author-Debdulal Bal
